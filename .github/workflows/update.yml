@@ -16,7 +16,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           ref: main
-          
+
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
@@ -35,6 +35,6 @@ jobs:
           git add points_fraicheur_bordeaux_clean.csv
           if ! git diff --staged --quiet; then
             git commit -m "Auto-update: fresh water points data"
-            git pull --rebase origin ${{ github.ref_name }}
-            git push origin HEAD:${{ github.ref_name }}
+            git pull --rebase origin main
+            git push origin main
           fi
