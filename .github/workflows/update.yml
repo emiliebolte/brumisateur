@@ -1,0 +1,34 @@
+name: Update Cool Bordeaux Data
+
+on:
+  schedule:
+    - cron: '0 6 * * 1' # Tous les lundis à 6h UTC
+  workflow_dispatch:      # Permet de lancer la mise à jour manuellement via un bouton
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests pandas
+
+      - name: Run update script
+        run: python update_data.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add points_fraicheur_bordeaux_clean.csv
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update: fresh water points data" && git push)
