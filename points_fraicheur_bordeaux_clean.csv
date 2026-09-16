@@ -1,307 +1,307 @@
-id;nom;type;etat;commune;lon;lat;categorie
-1.0;Aire de jeux du clown chocolat (Ginko);3 mâts;EN_SERVICE;33063;-0.5727240277499955;44.87754911206936;Brumisateur
-2.0;Aire de jeux du parc du Grand Parc;13 mâts;MAINTENANCE;33063;-0.5827073337495278;44.86053568633422;Brumisateur
-4.0;Jardin des Barrières (à proximité de l’aire de jeux);1 mât;SUPPRIME;33063;-0.5661753608500686;44.81261892650692;Brumisateur
-5.0;Jardin Public (fontaine Wallace, à proximité de l’aire de jeux du Muséum);Fontaine Wallace;MAINTENANCE;33063;-0.578917185231226;44.84835929505967;Brumisateur
-6.0;Parc aux Angéliques (en face de Darwin, à proximité de l’aire de street work out);3 mâts;MAINTENANCE;33063;-0.5592041239081031;44.85154947391129;Brumisateur
-7.0;Parc Cérey;5 mâts;EN_SERVICE;33063;-0.6027342589271544;44.85019059270319;Brumisateur
-10.0;Place de la Victoire;Pergolas végétalisée;MAINTENANCE;33063;-0.5720858497038516;44.830989290483934;Brumisateur
-21.0;Place Paul Doumer;Pergolas végétalisée;SUPPRIME;33063;-0.574250649005714;44.85189563809439;Brumisateur
-22.0;Place Buscaillet;Pergolas végétalisée;SUPPRIME;33063;-0.5498919416297392;44.87041844877927;Brumisateur
-23.0;Place Cardinal Donnet;Pergolas végétalisé;MAINTENANCE;33063;-0.5634552136238977;44.82230598692125;Brumisateur
-31.0;Eglise Sainte Croix Renaudel;Pergolas végétalisée;SUPPRIME;33063;-0.56095603256956;44.83073028878728;Brumisateur
-32.0;Ponton Yves Parlier 1;Pergolas végétalisée;SUPPRIME;33063;-0.5633960958935853;44.84203104352538;Brumisateur
-41.0;Ponton Yves Parlier 2;Pergolas végétalisée;SUPPRIME;33063;-0.5629200169192753;44.84162634063091;Brumisateur
-51.0;Bassin à flot;;MAINTENANCE;33063;-0.5563784519546906;44.8696059571705;Brumisateur
-52.0;De lussy;;MAINTENANCE;33063;-0.6060881080323901;44.840383028885455;Brumisateur
-53.0;Place des Martyrs;;MAINTENANCE;33063;-0.5851224033152497;44.84236104889477;Brumisateur
-54.0;Place Fernard Lafargue;;MAINTENANCE;33063;-0.5717897908252833;44.837031815529436;Brumisateur
-55.0;Béchade;;MAINTENANCE;33063;-0.5981912896474959;44.82660326283032;Brumisateur
-56.0;André Meunier;;MAINTENANCE;33063;-0.56248603296344;44.829419916116485;Brumisateur
-57.0;Armagnac;;MAINTENANCE;33063;-0.5548072436922751;44.82036303336128;Brumisateur
-58.0;Fernand Buisson;;MAINTENANCE;33063;-0.5513076491308087;44.82414587812704;Brumisateur
-59.0;Quai Deschamps;;MAINTENANCE;33063;-0.557634367886178;44.837576002414174;Brumisateur
-1.0;J. Lewis Brown;BAYARD;fonctionnelle;33063;-0.5608207350033559;44.863239439273954;Fontaine
-4.0;Place Saint Michel;METALCO;fonctionnelle;33063;-0.5665452083357112;44.8343402809431;Fontaine
-5.0;Place Saint Michel;METALCO;fonctionnelle;33063;-0.5664590333341131;44.83344486927675;Fontaine
-11.0;Place de l’Eglise St Amand;TANA;fonctionnelle;33063;-0.6150448649982171;44.85215358761391;Fontaine
-16.0;Place des Martyrs de la Résistance (proche basilique Saint Seurin);TANA;fonctionnelle;33063;-0.5852529883395016;44.84311295594552;Fontaine
-22.0;Cité Dasvin de Bois Marin;DELABIE;fonctionnelle;33063;-0.5454759250060712;44.850809104275605;Fontaine
-23.0;Rue Lafonfaine;BAYARD;fonctionnelle;33063;-0.5716323133331113;44.827006779279984;Fontaine
-24.0;Quai de Queyries (en face des pontons) chantier naval;METALCO;fonctionnelle;33063;-0.560039213337174;44.8516311492775;Fontaine
-25.0;Quai de Queyries;TANA;fonctionnelle;33063;-0.5640046149993223;44.848330185947034;Fontaine
-28.0;Quai Rive Gauche;TANA;fonctionnelle;33063;-0.5685126633339288;44.84081593427506;Fontaine
-34.0;Quai Rive Gauche;TANA;fonctionnelle;33063;-0.5661280116692158;44.8532904992722;Fontaine
-37.0;Jardin de l’hôtel de ville;WALLACE;fonctionnelle;33063;-0.5800773566656642;44.83814670760827;Fontaine
-39.0;Jardin Public;WALLACE;fonctionnelle;33063;-0.5789283099945084;44.84836193427335;Fontaine
-42.0;Place du Général Sarrailh;WALLACE;hors service;33063;-0.5728118827164953;44.83230226874314;Fontaine
-43.0;Place Calixte Camelle;PRESTO;hors service;33063;-0.5502556540937078;44.843123011990265;Fontaine
-45.0;Place Ferdinand Buisson;METLACO;fonctionnelle;33063;-0.5510932277570527;44.82399172273586;Fontaine
-48.0;Parc Bordelais (proche entrée rue Carnot);PRESTO;fonctionnelle;33063;-0.6026108366651411;44.850475180947484;Fontaine
-49.0;Parc Bordelais (estrade croisement 6 chemins);PRESTO;hors service;33063;-0.6031184283310606;44.85044049094605;Fontaine
-51.0;Parc Floral Bordeaux-Lac (proche roseraie);PRESTO;fonctionnelle;33063;-0.5655219016661207;44.90517136094263;Fontaine
-52.0;Parc Floral Bordeaux-Lac (milieu Parc floralies);PRESTO;fonctionnelle;33063;-0.5632202374007221;44.90122072870514;Fontaine
-53.0;Cimetière la Chartreuse n°1;METALCO;fonctionnelle;33063;-0.5984966196130732;44.83569015865735;Fontaine
-54.0;Cimetière la Chartreuse n°2;METALCO;fonctionnelle;33063;-0.5984804737537431;44.835316108265296;Fontaine
-56.0;Cimetière la Chartreuse n°4;METALCO;fonctionnelle;33063;-0.5983036692934472;44.83351492422684;Fontaine
-58.0;Cimetière la Chartreuse n°6;METALCO;fonctionnelle;33063;-0.5979924668013633;44.83505525717814;Fontaine
-59.0;Cimetière la Chartreuse n°7;METALCO;fonctionnelle;33063;-0.5977961451126628;44.8343888220462;Fontaine
-60.0;Cimetière la Chartreuse n°8;METALCO;fonctionnelle;33063;-0.597418325078146;44.83615817516931;Fontaine
-63.0;Cimetière la Chartreuse n°11;METALCO;fonctionnelle;33063;-0.5966020978983444;44.83441782848584;Fontaine
-64.0;Cimetière la Chartreuse n°12;METALCO;fonctionnelle;33063;-0.59629455504665;44.83412523315884;Fontaine
-68.0;Cimetière la Chartreuse n°16;METALCO;fonctionnelle;33063;-0.594887450020425;44.834499212034885;Fontaine
-72.0;Cimetière la Chartreuse n°20;METALCO;fonctionnelle;33063;-0.5954819996898914;44.83681255754392;Fontaine
-78.0;Cimetière la Chartreuse n°26;METALCO;fonctionnelle;33063;-0.5929764462067079;44.8350800569355;Fontaine
-79.0;Cimetière la Chartreuse n°27;METALCO;fonctionnelle;33063;-0.5925327847013763;44.834687344844234;Fontaine
-80.0;Cimetière la Chartreuse n°28;METALCO;fonctionnelle;33063;-0.5915896897278187;44.83495862266523;Fontaine
-81.0;Cimetière la Chartreuse n°29;METALCO;fonctionnelle;33063;-0.592304593755046;44.83597578036013;Fontaine
-85.0;Cimetière la Chartreuse n°33;METALCO;fonctionnelle;33063;-0.5917412879687968;44.83712237375244;Fontaine
-94.0;Cimetière la Chartreuse n°42;METALCO;fonctionnelle;33063;-0.5903357903522765;44.83743840990227;Fontaine
-97.0;Cimetière Pins Francs n°3;METALCO;fonctionnelle;33063;-0.6216203316659779;44.85985369094694;Fontaine
-98.0;Cimetière Pins Francs n°4;METALCO;fonctionnelle;33063;-0.6208831766613115;44.859997724275665;Fontaine
-101.0;Cimetière Pins Francs n°7;METALCO;fonctionnelle;33063;-0.6198679649944455;44.85860687094346;Fontaine
-112.0;Cimetière Nord n°3;METALCO;fonctionnelle;33075;-0.5919453450025831;44.87488994927513;Fontaine
-114.0;Cimetière Nord n°5;METALCO;fonctionnelle;33075;-0.5943505900017984;44.875246630944275;Fontaine
-116.0;Cimetière Nord n°7;METALCO;fonctionnelle;33075;-0.595547993330933;44.87496896427596;Fontaine
-120.0;Cimetière Nord n°11;Borne Béton;fonctionnelle;33075;-0.591569459994691;44.873876619277546;Fontaine
-121.0;Cimetière Nord n°12;Borne Béton;fonctionnelle;33075;-0.5912810683333283;44.87269396094529;Fontaine
-125.0;Cimetière Nord n°16;METALCO;fonctionnelle;33075;-0.5923383216700485;44.87624659927879;Fontaine
-126.0;Cimetière Nord n°17;METALCO;fonctionnelle;33075;-0.5917553483301122;44.876913199279926;Fontaine
-131.0;Cimetière Nord n°22;Borne Béton;fonctionnelle;33075;-0.5939308216673793;44.87612857594502;Fontaine
-132.0;Cimetière Nord n°23;METALCO;fonctionnelle;33075;-0.5950530800036439;44.87585749927331;Fontaine
-135.0;Cimetière Nord n°26;METALCO;fonctionnelle;33075;-0.5910103333280968;44.8762118742726;Fontaine
-138.0;Cimetière Nord n°29;robinet mural;fonctionnelle;33075;-0.5941846883327909;44.87664652927246;Fontaine
-139.0;Cimetière Nord n°30;METALCO;fonctionnelle;33075;-0.594184688331584;44.87664652927341;Fontaine
-144.0;Parc Bordelais (proche animaux);PRESTO;fonctionnelle;33063;-0.6037505900050445;44.850522434271625;Fontaine
-145.0;Parc Bordelais (aire de jeux du parc Cerey  entrée);PRESTO;fonctionnelle;33063;-0.6045929499943546;44.851398230946;Fontaine
-148.0;Quai des Salinières (Grave);FONTAINE MONUMENT PIERRE;fonctionnelle;33063;-0.5621183816728135;44.834504599275334;Fontaine
-150.0;Quai des salinieres;FONTAINE EN RANGEE;fonctionnelle;33063;-0.5611345900001954;44.833927489272675;Fontaine
-155.0;Place lafargue;PRESTO;fonctionnelle;33063;-0.571834595933436;44.837102114452605;Fontaine
-156.0;Parc Rivière n°1 (maison);PRESTO;fonctionnelle;33063;-0.585794953331456;44.85548036427987;Fontaine
-160.0;Place Puy Paulin;METALCO;fonctionnelle;33063;-0.5762384626274856;44.841125208606016;Fontaine
-166.0;AUBIERS CITY STADE;PRESTO;fonctionnelle;33063;-0.5700018000014346;44.87189741427395;Fontaine
-173.0;Cours du quebec face station des berges du lac;METALCO;fonctionnelle;33063;-0.5709798583304904;44.87925251260626;Fontaine
-174.0;Plage du lac/Bld jacques chaban delmas;PRESTO;fonctionnelle;33075;-0.5790851948510053;44.87783144643056;Fontaine
-176.0;Place georges porto riche;WALLACE;fonctionnelle;33063;-0.5722971922394011;44.84189131636925;Fontaine
-177.0;Place de la republique;PRESTO;fonctionnelle;33063;-0.5788637883330857;44.83489267594735;Fontaine
-183.0;Face galerie des beaux arts (en pierre);PRESTO;fonctionnelle;33063;-0.5819768783334576;44.838685814276204;Fontaine
-185.0;Parc Pincon, aire de jeux;METALCO;fonctionnelle;33063;-0.5457294187296334;44.84521721864546;Fontaine
-187.0;Jardins des Barrières, aire de jeux;DELABIE;fonctionnelle;33063;-0.5662146804892807;44.81265305462075;Fontaine
-193.0;Square Bertrand de Goth, dans le parc;PRESTO;fonctionnelle;33063;-0.5774987759455112;44.819336872346874;Fontaine
-199.0;Quai de Queyries (proche terrain basket);METALCO;fonctionnelle;33063;-0.563045490933623;44.84962880684647;Fontaine
-202.0;Bd Brandenburg , local Boulistes;PRESTO;fonctionnelle;33063;-0.5431246144392422;44.87498981083507;Fontaine
-203.0;Place André Meunier 1;PRESTO;fonctionnelle;33063;-0.5628527566347333;44.82937301029958;Fontaine
-206.0;Quai Sainte Croix - aire de jeux;TANA;fonctionnelle;33063;-0.5605346061657143;44.833556559258035;Fontaine
-208.0;Parc Bordelais (proche Manège);PRESTO;fonctionnelle;33063;-0.6011355350028714;44.85391818297133;Fontaine
-210.0;Stade Promis n1 (côté rue Buthaud);PRESTO;hors service;33063;-0.5541252948065278;44.83808281767825;Fontaine
-213.0;Parc de lussy (aire de jeux);PRESTO;fonctionnelle;33063;-0.6061585405781746;44.84020171697899;Fontaine
-215.0;Jardin Public;PRESTO;fonctionnelle;33063;-0.5791974061881144;44.848230725576364;Fontaine
-218.0;109 rue Billaudel;METALCO;fonctionnelle;33063;-0.5628872864840272;44.82325943694051;Fontaine
-219.0;Jardin de la porcelaine (aire de jeux);PRESTO;fonctionnelle;33063;-0.5513346069292266;44.822024131970174;Fontaine
-221.0;Parc de la grenouillère;PRESTO;fonctionnelle;33063;-0.5747052129732302;44.861754265114584;Fontaine
-223.0;Jardin des Barrières, aire des chiens;"PRESTO 
-(+ abreuvoir)";fonctionnelle;33063;-0.5667680422599005;44.81344589119144;Fontaine
-224.0;Place des Martyrs de la résisitence;"PRESTO 
-(+ abreuvoir)";fonctionnelle;33063;-0.5852797581774178;44.84287179634456;Fontaine
-225.0;Square Honoré d'Etienne d'Orves;PRESTO;fonctionnelle;33063;-0.6145053449345214;44.85509829304507;Fontaine
-230.0;Place Cardinal / Eglise Sacré Cœur;METALCO;fonctionnelle;33063;-0.5631139096976988;44.822337123230014;Fontaine
-231.0;Jardin de l'Ars;METALCO;fonctionnelle;33063;-0.5437610199053907;44.822428186559655;Fontaine
-236.0;Square Vinet;BAYARD;fonctionnelle;33063;-0.5714381086870541;44.8394563914169;Fontaine
-242.0;Parc Pincon, opposé de l'aire de jeux;PRESTO;fonctionnelle;33063;-0.5454209043748312;44.84355171444281;Fontaine
-245.0;Square des Jasmins;METALCO;fonctionnelle;33063;-0.6370966092287849;44.8601861662304;Fontaine
-247.0;Placette Tivoli / Riviere;METALCO;fonctionnelle;33063;-0.5886484991529938;44.85378402008263;Fontaine
-248.0;rue Cazemajor;PRESTO;fonctionnelle;33063;-0.5693095561383722;44.824380798756245;Fontaine
-257.0;"Restaurant ""le terroir""";METALCO;fonctionnelle;33063;-0.560489751605236;44.82027049886653;Fontaine
-260.0;Impasse Bouscatier;BAYARD;fonctionnelle;33063;-0.580200803578982;44.83008585165041;Fontaine
-263.0;jardin de ta sœur;METALCO;fonctionnelle;33063;-0.5604500758839694;44.85922678000497;Fontaine
-275.0;Préau sportif P10;PRESTO;fonctionnelle;33063;-0.5599625679011889;44.86605953356528;Fontaine
-276.0;Parc du Pont Roulant;METALCO;fonctionnelle;33063;-0.5543127340900923;44.819605899805794;Fontaine
-278.0;Eglise Notre Dame (Mably);METALCO;fonctionnelle;33063;-0.5762881489839912;44.84300172678876;Fontaine
-280.0;Square du Grand Parc n°4 - Aire Chiens;METALCO;fonctionnelle;33063;-0.5838234558027886;44.8595172651322;Fontaine
-7.0;Place Bernadas (la Bastide);BAYARD;fonctionnelle;33063;-0.5467953283336258;44.841715270940824;Fontaine
-8.0;Place Pey Berland;TANA;fonctionnelle;33063;-0.5766111866630947;44.83772632927857;Fontaine
-9.0;Place Paul Doumer;TANA;fonctionnelle;33063;-0.5742817383341714;44.85180274927379;Fontaine
-10.0;Place Jean Moulin;TANA;fonctionnelle;33063;-0.5775591483311432;44.83852476261346;Fontaine
-20.0;Terminus des Aubiers;TANA;fonctionnelle;33063;-0.5754079766705447;44.87388927261227;Fontaine
-26.0;Quai Rive Gauche;TANA;fonctionnelle;33063;-0.5697570366713133;44.84376226594728;Fontaine
-27.0;Quai Rive Gauche;TANA;fonctionnelle;33063;-0.5693227166733527;44.842709217613766;Fontaine
-35.0;Quai Rive Gauche;TANA;fonctionnelle;33063;-0.5657115783327016;44.85362025927699;Fontaine
-36.0;Cours du Chapeau Rouge;BAYARD;hors service;33063;-0.5733607216647361;44.842327842606586;Fontaine
-38.0;Place Stalingrad la Bastide;WALLACE;fonctionnelle;33063;-0.5595891866719985;44.840526652609825;Fontaine
-41.0;Cours Xavier Arnozan;WALLACE;fonctionnelle;33063;-0.5729408816603729;44.84911779760867;Fontaine
-44.0;Place Calixte Camelle;PRESTO;hors service;33063;-0.5497668951142816;44.84275317032159;Fontaine
-46.0;Jardin Public (guignol);PRESTO;fonctionnelle;33063;-0.5776230984187274;44.84852001099839;Fontaine
-47.0;Jardin Public;PRESTO;fonctionnelle;33063;-0.5776269252454433;44.84851470676639;Fontaine
-50.0;Parc Bordelais (proche étang);PRESTO;fonctionnelle;33063;-0.6045929499943546;44.851398230946;Fontaine
-61.0;Cimetière la Chartreuse n°9;METALCO;fonctionnelle;33063;-0.5970184603052685;44.835516549771;Fontaine
-62.0;Cimetière la Chartreuse n°10;METALCO;fonctionnelle;33063;-0.5966882516748957;44.83488127946967;Fontaine
-66.0;Cimetière la Chartreuse n°14;METALCO;fonctionnelle;33063;-0.5951446222959843;44.83358090065618;Fontaine
-74.0;Cimetière la Chartreuse n°22;METALCO;fonctionnelle;33063;-0.5947580668063529;44.83406703290025;Fontaine
-75.0;Cimetière la Chartreuse n°23;METALCO;fonctionnelle;33063;-0.5943503014186745;44.835414655186625;Fontaine
-87.0;Cimetière la Chartreuse n°35;METALCO;fonctionnelle;33063;-0.5908386877949768;44.83584413326507;Fontaine
-91.0;Cimetière la Chartreuse n°39;METALCO;fonctionnelle;33063;-0.5895986962256635;44.83620502412064;Fontaine
-93.0;Cimetière la Chartreuse n°41;METALCO;fonctionnelle;33063;-0.5905043008588882;44.83735102921913;Fontaine
-95.0;Cimetière Pins Francs n°1;ROBINET PAPILLON;fonctionnelle;33063;-0.6202026883381441;44.85939849594245;Fontaine
-99.0;Cimetière Pins Francs n°5;METALCO;fonctionnelle;33063;-0.6200730900028517;44.85977730594029;Fontaine
-100.0;Cimetière Pins Francs n°6;PRESTO;fonctionnelle;33063;-0.6196608133283021;44.859287734276755;Fontaine
-104.0;Cimetière Pins Francs n°10;METALCO;fonctionnelle;33063;-0.6218554216620877;44.85866843093885;Fontaine
-110.0;Cimetière Nord n°1;METALCO;fonctionnelle;33075;-0.5906403749942004;44.87439537094372;Fontaine
-115.0;Cimetière Nord n°6;METALCO;fonctionnelle;33075;-0.594812213338697;44.8750962809439;Fontaine
-117.0;Cimetière Nord n°8;METALCO;fonctionnelle;33075;-0.59458907000059;44.87442687761207;Fontaine
-118.0;Cimetière Nord n°9;METALCO;fonctionnelle;33075;-0.5935338049982845;44.87473834260787;Fontaine
-127.0;Cimetière Nord n°18;METALCO;fonctionnelle;33075;-0.5919463800023665;44.87816462094085;Fontaine
-129.0;Cimetière Nord n°20;METALCO;fonctionnelle;33075;-0.5928207649960893;44.877444452610966;Fontaine
-133.0;Cimetière Nord n°24;Borne Béton;fonctionnelle;33075;-0.5952341933290025;44.876479694278345;Fontaine
-136.0;Cimetière Nord n°27;METALCO;fonctionnelle;33075;-0.5934392466624175;44.87774345761253;Fontaine
-141.0;Cimetière Nord n°32;METALCO;fonctionnelle;33075;-0.5941846883291667;44.876646529275284;Fontaine
-146.0;Parc Bordelais (aire de jeux du parc Cerey  milieu parc);PRESTO;fonctionnelle;33063;-0.6011355350028714;44.85391818297133;Fontaine
-151.0;Quai des Salinières;FONTAINE EN RANGEE;fonctionnelle;33063;-0.5611054033322284;44.83391059427859;Fontaine
-153.0;Quai des salinieres;FONTAINE EN RANGEE;fonctionnelle;33063;-0.5610479966700842;44.83387548927728;Fontaine
-154.0;Quai des salinieres (terrain de basket);TANA;fonctionnelle;33063;-0.5610202933302056;44.83385733260818;Fontaine
-157.0;Parc Rivière n°2 (Jardin);METALCO;fonctionnelle;33063;-0.5857698583296662;44.855097044275716;Fontaine
-158.0;Ilôt Bonnac;TANA;fonctionnelle;33063;-0.5823274133391385;44.84011257927439;Fontaine
-159.0;Ilôt Bonnac;TANA;fonctionnelle;33063;-0.5821548371091394;44.8395712908337;Fontaine
-161.0;AIRE DE JEUX POINCARE;PRESTO;hors service;33063;-0.6204046733353917;44.844302697607056;Fontaine
-168.0;AUBIERS GINKO;METALCO;fonctionnelle;33063;-0.5726569649974093;44.87608371427446;Fontaine
-172.0;Jardin Béchade (n°2, milieu parc);PRESTO;fonctionnelle;33063;-0.5979326683363279;44.82650366261077;Fontaine
-175.0;Rue du muguet/angle puits descazeaux;BAYARD;fonctionnelle;33063;-0.5685368827676256;44.83657719278425;Fontaine
-178.0;Place duburg;METALCO;fonctionnelle;33063;-0.5643945899983296;44.83446959428003;Fontaine
-179.0;Jardin botanique bastide1;PRESTO;fonctionnelle;33063;-0.5612666009065836;44.84542206821729;Fontaine
-181.0;Place maucaillou;METALCO;fonctionnelle;33063;-0.5668763266654059;44.83226191927255;Fontaine
-186.0;Parc Carreire, aire de jeux;DELABIE;fonctionnelle;33063;-0.6082663189887014;44.82384033350401;Fontaine
-189.0;142 rue des Terres de Borde;METALCO;fonctionnelle;33063;-0.5547632519652383;44.82294153937313;Fontaine
-190.0;Parc des Berges, quai dechamps;DELABIE;fonctionnelle;33063;-0.5531719150228619;44.83504176818657;Fontaine
-191.0;Square Paul Antin;BAYARD;fonctionnelle;33063;-0.5702209029855192;44.81944073251538;Fontaine
-194.0;Place Saint Projet;PRESTO;fonctionnelle;33063;-0.5741726504064412;44.83848568242219;Fontaine
-195.0;Place Nansouty;PRESTO;fonctionnelle;33063;-0.5723256557271309;44.82008972519315;Fontaine
-212.0;Place Gaviniès (square de jeu gavinies);BAYARD;fonctionnelle;33063;-0.5935366111012937;44.83315714010348;Fontaine
-216.0;Grand Parc (square) n°1;PRESTO;fonctionnelle;33063;-0.5833546049647186;44.86056795419671;Fontaine
-227.0;Square Docteur Roger Hypousteguy;METALCO;fonctionnelle;33063;-0.5441717734779304;44.87900888238058;Fontaine
-228.0;1 rue Lacanau, Bordeaux;METALCO;fonctionnelle;33063;-0.5934118114975201;44.83781407352449;Fontaine
-229.0;Place Marjolaine Bamboche;METALCO;fonctionnelle;33063;-0.5494362116564037;44.873672860990595;Fontaine
-233.0;Nouvelle Gare Routière;METALCO;fonctionnelle;33063;-0.5541309902546113;44.82965810318917;Fontaine
-235.0;Place Alice Girou;METALCO;fonctionnelle;33063;-0.5546195530513094;44.86190453518164;Fontaine
-237.0;Stade Promis n2 (côté rue Joseph Fauré);PRESTO;fonctionnelle;33063;-0.5508432030345474;44.83900517287617;Fontaine
-238.0;Square Armand Faulat;METALCO;fonctionnelle;33063;-0.6147476111158188;44.84564228377359;Fontaine
-239.0;Place Mareilhac;PRESTO;fonctionnelle;33063;-0.5511596021815374;44.876443745550496;Fontaine
-240.0;Parc Chantecrit - Aire de jeux;PRESTO;fonctionnelle;33063;-0.5642104097313205;44.86341674487912;Fontaine
-244.0;Place rue du Lavoir;METALCO;fonctionnelle;33063;-0.5838476560910382;44.85175890416004;Fontaine
-251.0;Place du 14 juillet, Bordeaux;METALCO;fonctionnelle;33063;-0.6026299540890759;44.84806530437052;Fontaine
-255.0;place d'armagnac;METALCO;fonctionnelle;33063;-0.5542893807358921;44.819294952573976;Fontaine
-259.0;Placette Murielle Franco;METALCO;fonctionnelle;33063;-0.5570698522628431;44.84083041178901;Fontaine
-264.0;jardin de ta sœur;METALCO;fonctionnelle;33063;-0.5614077910919264;44.859703614310106;Fontaine
-265.0;Place Ozanam;METALCO;hors service;33063;-0.6138241749267075;44.85041247481959;Fontaine
-269.0;GS Elsa Triolet;METALCO;fonctionnelle;33063;-0.5408300316626596;44.857175939864135;Fontaine
-270.0;Avenue des 40 journeaux bordeaux lac;METALCO;fonctionnelle;33063;-0.5681393044595456;44.879122557608696;Fontaine
-273.0;Square Jacques Nancy (placette henri labit);METALCO;fonctionnelle;33063;-0.5888622914009186;44.83837435154579;Fontaine
-277.0;Eglise Belcier;METALCO;fonctionnelle;33063;-0.5503865544584905;44.824351024651875;Fontaine
-281.0;Square du Grand Parc n°5 - Aire Musculation;METALCO;fonctionnelle;33063;-0.5847329198668914;44.85965708405375;Fontaine
-283.0;Parc Bordelais - aire de jeux n°2 (nouvelle aire);METALCO;fonctionnelle;33063;-0.6039544809024793;44.855318761848075;Fontaine
-2.0;Place Emile Combes;METALCO;fonctionnelle;33063;-0.6083472666622323;44.836501969276604;Fontaine
-6.0;Place Simiot;BAYARD;fonctionnelle;33063;-0.5771945162018686;44.82292343589155;Fontaine
-12.0;Place Flornoy (jardin de Lili);METALCO;fonctionnelle;33063;-0.6112555216639495;44.83311823761235;Fontaine
-14.0;Gare Saint Jean (Place Casablanca);TANA;fonctionnelle;33063;-0.5574803650018081;44.82623087927816;Fontaine
-15.0;Gare Saint Jean (arêt tram);TANA;fonctionnelle;33063;-0.5570660799948963;44.826092192611895;Fontaine
-17.0;Cours Victor Hugo n°1;TANA;fonctionnelle;33063;-0.5691354216658818;44.83559128593849;Fontaine
-18.0;Cours Victor Hugo n°2;TANA;fonctionnelle;33063;-0.5731999045710274;44.83497269833371;Fontaine
-19.0;Cours Victor Hugo n°3;TANA;hors service;33063;-0.5669914383462348;44.8358593168154;Fontaine
-21.0;Poste Bacalan;TANA;hors service;33063;-0.546200964913543;44.87337954133794;Fontaine
-29.0;Quai Rive Gauche;TANA;fonctionnelle;33063;-0.5679440966723421;44.83962858760882;Fontaine
-30.0;Quai Rive Gauche;TANA;fonctionnelle;33063;-0.5700811433269877;44.84518940927468;Fontaine
-31.0;Quai Rive Gauche;TANA;fonctionnelle;33063;-0.5702324616616945;44.84685797427872;Fontaine
-32.0;Quai Rive Gauche;TANA;fonctionnelle;33063;-0.5694370983278596;44.84971446927699;Fontaine
-33.0;Quai Rive Gauche;TANA;fonctionnelle;33063;-0.5671963700030844;44.85243448427429;Fontaine
-40.0;Place Mitchell;WALLACE;fonctionnelle;33063;-0.5758067699970841;44.85048595594505;Fontaine
-55.0;Cimetière la Chartreuse n°3;METALCO;fonctionnelle;33063;-0.5983831448302144;44.834329364874314;Fontaine
-57.0;Cimetière la Chartreuse n°5;METALCO;fonctionnelle;33063;-0.5973948476531483;44.833647072235;Fontaine
-65.0;Cimetière la Chartreuse n°13;METALCO;fonctionnelle;33063;-0.5960730236513451;44.83374416111863;Fontaine
-67.0;Cimetière la Chartreuse n°15;METALCO;fonctionnelle;33063;-0.5950632809082416;44.83403433007666;Fontaine
-69.0;Cimetière la Chartreuse n°17;METALCO;fonctionnelle;33063;-0.595633341332854;44.83503829814714;Fontaine
-70.0;Cimetière la Chartreuse n°18;METALCO;fonctionnelle;33063;-0.5969203438566709;44.83619589595879;Fontaine
-71.0;Cimetière la Chartreuse n°19;METALCO;fonctionnelle;33063;-0.5965785861313505;44.83659657181884;Fontaine
-73.0;Cimetière la Chartreuse n°21;METALCO;fonctionnelle;33063;-0.5949662559807123;44.835303675553526;Fontaine
-76.0;Cimetière la Chartreuse n°24;METALCO;fonctionnelle;33063;-0.5933891518005409;44.837420321150574;Fontaine
-77.0;Cimetière la Chartreuse n°25;METALCO;fonctionnelle;33063;-0.5923176104782543;44.83595510108699;Fontaine
-82.0;Cimetière la Chartreuse n°30;METALCO;fonctionnelle;33063;-0.5921315062286799;44.83602619475798;Fontaine
-83.0;Cimetière la Chartreuse n°31;METALCO;fonctionnelle;33063;-0.593084330137274;44.837439314067154;Fontaine
-84.0;Cimetière la Chartreuse n°32;METALCO;fonctionnelle;33063;-0.5920421134972614;44.83764850455193;Fontaine
-86.0;Cimetière la Chartreuse n°34;METALCO;fonctionnelle;33063;-0.5912067179684944;44.83639859291937;Fontaine
-88.0;Cimetière la Chartreuse n°36;METALCO;fonctionnelle;33063;-0.5905105760767088;44.835243462419605;Fontaine
-89.0;Cimetière la Chartreuse n°37;METALCO;fonctionnelle;33063;-0.5904121512300807;44.83500893252614;Fontaine
-90.0;Cimetière la Chartreuse n°38;METALCO;fonctionnelle;33063;-0.5893821808110149;44.8355401153029;Fontaine
-92.0;Cimetière la Chartreuse n°40;METALCO;fonctionnelle;33063;-0.5901262443161855;44.836759589913946;Fontaine
-96.0;Cimetière Pins Francs n°2;METALCO;fonctionnelle;33063;-0.6205700416685797;44.85945594260547;Fontaine
-102.0;Cimetière Pins Francs n°8;ROBINET PAPILLON;fonctionnelle;33063;-0.6208757233309109;44.85879891928022;Fontaine
-103.0;Cimetière Pins Francs n°9;ROBINET PAPILLON;fonctionnelle;33063;-0.621524193328581;44.85895667760583;Fontaine
-105.0;Cimetière Pins Francs n°11;ROBINET PAPILLON;fonctionnelle;33063;-0.6219096583384481;44.858475459277855;Fontaine
-106.0;Cimetière Pins Francs n°12;METALCO;fonctionnelle;33063;-0.6221752933347867;44.85925671594115;Fontaine
-107.0;Cimetière Pins Francs n°13;PRESTO;fonctionnelle;33063;-0.6210801083312605;44.858493527613966;Fontaine
-108.0;Cimetière Pins Francs n°14;PRESTO;fonctionnelle;33063;-0.6210801083300511;44.85849352761489;Fontaine
-109.0;Cimetière Pins Francs n°15;PRESTO;fonctionnelle;33063;-0.6210801083288449;44.85849352761585;Fontaine
-111.0;Cimetière Nord n°2;METALCO;fonctionnelle;33075;-0.5911509250019906;44.87454231261119;Fontaine
-113.0;Cimetière Nord n°4;METALCO;fonctionnelle;33075;-0.5928335899969451;44.8753503909403;Fontaine
-119.0;Cimetière Nord n°10;METALCO;fonctionnelle;33075;-0.5923874666615541;44.87424544761428;Fontaine
-122.0;Cimetière Nord n°13;METALCO;fonctionnelle;33075;-0.5922037233293772;44.8731709042729;Fontaine
-123.0;Cimetière Nord n°14;Borne Béton;fonctionnelle;33075;-0.5930498616662863;44.8736119859401;Fontaine
-124.0;Cimetière Nord n°15;METALCO;fonctionnelle;33075;-0.5960186766665776;44.8756961276126;Fontaine
-128.0;Cimetière Nord n°19;Borne Béton;fonctionnelle;33075;-0.5928205083299223;44.87744454261104;Fontaine
-130.0;Cimetière Nord n°21;Borne Béton;fonctionnelle;33075;-0.593434136668271;44.87678395594311;Fontaine
-134.0;Cimetière Nord n°25;Borne Béton;fonctionnelle;33075;-0.5959643216623421;44.8764652942805;Fontaine
-137.0;Cimetière Nord n°28;METALCO;fonctionnelle;33075;-0.5943172249974437;44.877498410941655;Fontaine
-140.0;Cimetière Nord n°31;METALCO;fonctionnelle;33075;-0.594184688330373;44.87664652927435;Fontaine
-142.0;Parc Bordelais (nouvele aire de jeux n°1);METALCO;fonctionnelle;33063;-0.6026108366651411;44.850475180947484;Fontaine
-143.0;Parc Bordelais (proche piste education routière);PRESTO;fonctionnelle;33063;-0.6031184283310606;44.85044049094605;Fontaine
-147.0;Quai des Salinières (Grave);TANA;fonctionnelle;33063;-0.5629827099986493;44.83504517594158;Fontaine
-149.0;Quai des Salinières (Grave);TANA;fonctionnelle;33063;-0.5611627049964352;44.83394650594045;Fontaine
-152.0;Quai des salinieres;FONTAINE EN RANGEE;fonctionnelle;33063;-0.5610768216732865;44.83389311427309;Fontaine
-162.0;SQUARE BRASCASSAT;PRESTO;fonctionnelle;33063;-0.5543394366682637;44.81507967760993;Fontaine
-163.0;JARDIN DES DAMES DE LA FOI;PRESTO;fonctionnelle;33063;-0.5815924199940246;44.8248448392748;Fontaine
-164.0;SQUARE MANDEL;PRESTO;fonctionnelle;33063;-0.5935332316611434;44.84158220927662;Fontaine
-165.0;JARDIN SAINTE MARIE;PRESTO;hors service;33063;-0.55697733166633;44.843415385944326;Fontaine
-167.0;JARDIN PARTAGE NOVICIAT;PRESTO;fonctionnelle;33063;-0.5619602233304161;44.83081603927895;Fontaine
-169.0;GINKO;METALCO;fonctionnelle;33063;-0.5725663516718649;44.876942535944664;Fontaine
-170.0;JARDIN PARTAGE Petit nicolas (clown chocolat);METALCO;fonctionnelle;33063;-0.5725659800031799;44.87778749427615;Fontaine
-171.0;Jardin Béchade (n°1, proche entrée);PRESTO;fonctionnelle;33063;-0.5996663133291855;44.82665247761082;Fontaine
-180.0;Jardin botanique bastide 2;PRESTO;hors service;33063;-0.5612666009065836;44.84542206821729;Fontaine
-182.0;Square J lasserre;METALCO;fonctionnelle;33063;-0.5773398316660326;44.82466102594529;Fontaine
-184.0;Place buscaillet;PRESTO;fonctionnelle;33063;-0.5497396157990129;44.87055960713242;Fontaine
-188.0;Place Pierre Cétois;METALCO;hors service;33063;-0.5506078891458042;44.865539652215205;Fontaine
-192.0;Jardin de la Croix du Sud;DELABIE;fonctionnelle;33063;-0.574042218431736;44.8176642511696;Fontaine
-196.0;aire de jeux des droits de l'enfants;PRESTO;fonctionnelle;33063;-0.5645769656007381;44.845800283391064;Fontaine
-200.0;Place Gambetta 1;METALCO;fonctionnelle;33063;-0.5803260548359772;44.8409292067966;Fontaine
-201.0;Place Gambetta 2;METALCO;fonctionnelle;33063;-0.580748155583772;44.8411650916029;Fontaine
-204.0;Place André Meunier 2;PRESTO;fonctionnelle;33063;-0.5623086301065963;44.82962389456522;Fontaine
-205.0;Quai Sainte Croix - Fronton;TANA;fonctionnelle;33063;-0.55911357464139;44.83265066710774;Fontaine
-207.0;Parc des Berges, quai dechamps;DELABIE;fonctionnelle;33063;-0.5581821479915884;44.83780498767347;Fontaine
-209.0;Parc Rivière n°3 (aire de jeux);METALCO;fonctionnelle;33063;-0.587006676720491;44.85466991795718;Fontaine
-211.0;Square Jean Bureau;METALCO;fonctionnelle;33063;-0.5696721954307475;44.83670641528938;Fontaine
-214.0;27 rue Ernest Renan;METALCO;fonctionnelle;33063;-0.5919282240148154;44.848186780667966;Fontaine
-217.0;Grand Parc (square) n°2;PRESTO;fonctionnelle;33063;-0.5794961109598672;44.86094615207212;Fontaine
-220.0;Parc stéhélin (complexe sportif stréhélin);PRESTO;fonctionnelle;33063;-0.6222510026965117;44.85589921840949;Fontaine
-222.0;Place Sainte Eulalie;PRESTO;fonctionnelle;33063;-0.5771066023729815;44.83352390653429;Fontaine
-226.0;Rue Saint Macaire, placette;METALCO;fonctionnelle;33063;-0.5674315426257039;44.82277347664888;Fontaine
-232.0;Place d'Armagnac;METALCO;fonctionnelle;33063;-0.5504846607501624;44.82132506596894;Fontaine
-234.0;Place Marie Curie;METALCO;fonctionnelle;33063;-0.5582137086103997;44.82746974728837;Fontaine
-241.0;Parc Chantecrit - dans le parc;PRESTO;fonctionnelle;33063;-0.5633421956353106;44.86368155129606;Fontaine
-243.0;Place LEHU;METALCO;fonctionnelle;33063;-0.6150346797359149;44.846296175148765;Fontaine
-246.0;Ecole Maternelle de la Bechade square Madagascar;METALCO;fonctionnelle;33063;-0.5968346756558655;44.82570396448148;Fontaine
-249.0;Parc Bordelais (proche entrée Maison Brieix);PRESTO;fonctionnelle;33063;-0.5987884370148583;44.85406349448411;Fontaine
-250.0;Parc Monséjour;"PRESTO 
-avec abreuvoir";fonctionnelle;33063;-0.6304364267876517;44.85416317641637;Fontaine
-252.0;Pont Simone Veil (rive gauche);METALCO;fonctionnelle;33063;-0.5409957637512939;44.82175716494282;Fontaine
-253.0;Aire du Jeux du Capitaine Némo;METALCO;fonctionnelle;33063;-0.5561628980754929;44.870062318001835;Fontaine
-254.0;Square Françoise Dolto;METALCO;fonctionnelle;33063;-0.5573287517340474;44.84692198884403;Fontaine
-256.0;Atelier des citernes (proche Amédée Saint Germain);METALCO;fonctionnelle;33063;-0.5598255551274911;44.821516644839924;Fontaine
-258.0;Pont de la Palombe;METALCO;fonctionnelle;33063;-0.5552406630912143;44.8205757139366;Fontaine
-261.0;place d'arlac;PRESTO;hors service;33063;-0.5887125879384681;44.83066205827344;Fontaine
-262.0;jardin de ta soeur;"METALCO
+id,nom,type,etat,commune,lon,lat,categorie
+1.0,Aire de jeux du clown chocolat (Ginko),3 mâts,EN_SERVICE,33063,-0.5727240277499955,44.87754911206936,Brumisateur
+2.0,Aire de jeux du parc du Grand Parc,13 mâts,MAINTENANCE,33063,-0.5827073337495278,44.86053568633422,Brumisateur
+4.0,Jardin des Barrières (à proximité de l’aire de jeux),1 mât,SUPPRIME,33063,-0.5661753608500686,44.81261892650692,Brumisateur
+5.0,"Jardin Public (fontaine Wallace, à proximité de l’aire de jeux du Muséum)",Fontaine Wallace,MAINTENANCE,33063,-0.578917185231226,44.84835929505967,Brumisateur
+6.0,"Parc aux Angéliques (en face de Darwin, à proximité de l’aire de street work out)",3 mâts,MAINTENANCE,33063,-0.5592041239081031,44.85154947391129,Brumisateur
+7.0,Parc Cérey,5 mâts,EN_SERVICE,33063,-0.6027342589271544,44.85019059270319,Brumisateur
+10.0,Place de la Victoire,Pergolas végétalisée,MAINTENANCE,33063,-0.5720858497038516,44.830989290483934,Brumisateur
+21.0,Place Paul Doumer,Pergolas végétalisée,SUPPRIME,33063,-0.574250649005714,44.85189563809439,Brumisateur
+22.0,Place Buscaillet,Pergolas végétalisée,SUPPRIME,33063,-0.5498919416297392,44.87041844877927,Brumisateur
+23.0,Place Cardinal Donnet,Pergolas végétalisé,MAINTENANCE,33063,-0.5634552136238977,44.82230598692125,Brumisateur
+31.0,Eglise Sainte Croix Renaudel,Pergolas végétalisée,SUPPRIME,33063,-0.56095603256956,44.83073028878728,Brumisateur
+32.0,Ponton Yves Parlier 1,Pergolas végétalisée,SUPPRIME,33063,-0.5633960958935853,44.84203104352538,Brumisateur
+41.0,Ponton Yves Parlier 2,Pergolas végétalisée,SUPPRIME,33063,-0.5629200169192753,44.84162634063091,Brumisateur
+51.0,Bassin à flot,,MAINTENANCE,33063,-0.5563784519546906,44.8696059571705,Brumisateur
+52.0,De lussy,,MAINTENANCE,33063,-0.6060881080323901,44.840383028885455,Brumisateur
+53.0,Place des Martyrs,,MAINTENANCE,33063,-0.5851224033152497,44.84236104889477,Brumisateur
+54.0,Place Fernard Lafargue,,MAINTENANCE,33063,-0.5717897908252833,44.837031815529436,Brumisateur
+55.0,Béchade,,MAINTENANCE,33063,-0.5981912896474959,44.82660326283032,Brumisateur
+56.0,André Meunier,,MAINTENANCE,33063,-0.56248603296344,44.829419916116485,Brumisateur
+57.0,Armagnac,,MAINTENANCE,33063,-0.5548072436922751,44.82036303336128,Brumisateur
+58.0,Fernand Buisson,,MAINTENANCE,33063,-0.5513076491308087,44.82414587812704,Brumisateur
+59.0,Quai Deschamps,,MAINTENANCE,33063,-0.557634367886178,44.837576002414174,Brumisateur
+1.0,J. Lewis Brown,BAYARD,fonctionnelle,33063,-0.5608207350033559,44.863239439273954,Fontaine
+4.0,Place Saint Michel,METALCO,fonctionnelle,33063,-0.5665452083357112,44.8343402809431,Fontaine
+5.0,Place Saint Michel,METALCO,fonctionnelle,33063,-0.5664590333341131,44.83344486927675,Fontaine
+11.0,Place de l’Eglise St Amand,TANA,fonctionnelle,33063,-0.6150448649982171,44.85215358761391,Fontaine
+16.0,Place des Martyrs de la Résistance (proche basilique Saint Seurin),TANA,fonctionnelle,33063,-0.5852529883395016,44.84311295594552,Fontaine
+22.0,Cité Dasvin de Bois Marin,DELABIE,fonctionnelle,33063,-0.5454759250060712,44.850809104275605,Fontaine
+23.0,Rue Lafonfaine,BAYARD,fonctionnelle,33063,-0.5716323133331113,44.827006779279984,Fontaine
+24.0,Quai de Queyries (en face des pontons) chantier naval,METALCO,fonctionnelle,33063,-0.560039213337174,44.8516311492775,Fontaine
+25.0,Quai de Queyries,TANA,fonctionnelle,33063,-0.5640046149993223,44.848330185947034,Fontaine
+28.0,Quai Rive Gauche,TANA,fonctionnelle,33063,-0.5685126633339288,44.84081593427506,Fontaine
+34.0,Quai Rive Gauche,TANA,fonctionnelle,33063,-0.5661280116692158,44.8532904992722,Fontaine
+37.0,Jardin de l’hôtel de ville,WALLACE,fonctionnelle,33063,-0.5800773566656642,44.83814670760827,Fontaine
+39.0,Jardin Public,WALLACE,fonctionnelle,33063,-0.5789283099945084,44.84836193427335,Fontaine
+42.0,Place du Général Sarrailh,WALLACE,hors service,33063,-0.5728118827164953,44.83230226874314,Fontaine
+43.0,Place Calixte Camelle,PRESTO,hors service,33063,-0.5502556540937078,44.843123011990265,Fontaine
+45.0,Place Ferdinand Buisson,METLACO,fonctionnelle,33063,-0.5510932277570527,44.82399172273586,Fontaine
+48.0,Parc Bordelais (proche entrée rue Carnot),PRESTO,fonctionnelle,33063,-0.6026108366651411,44.850475180947484,Fontaine
+49.0,Parc Bordelais (estrade croisement 6 chemins),PRESTO,hors service,33063,-0.6031184283310606,44.85044049094605,Fontaine
+51.0,Parc Floral Bordeaux-Lac (proche roseraie),PRESTO,fonctionnelle,33063,-0.5655219016661207,44.90517136094263,Fontaine
+52.0,Parc Floral Bordeaux-Lac (milieu Parc floralies),PRESTO,fonctionnelle,33063,-0.5632202374007221,44.90122072870514,Fontaine
+53.0,Cimetière la Chartreuse n°1,METALCO,fonctionnelle,33063,-0.5984966196130732,44.83569015865735,Fontaine
+54.0,Cimetière la Chartreuse n°2,METALCO,fonctionnelle,33063,-0.5984804737537431,44.835316108265296,Fontaine
+56.0,Cimetière la Chartreuse n°4,METALCO,fonctionnelle,33063,-0.5983036692934472,44.83351492422684,Fontaine
+58.0,Cimetière la Chartreuse n°6,METALCO,fonctionnelle,33063,-0.5979924668013633,44.83505525717814,Fontaine
+59.0,Cimetière la Chartreuse n°7,METALCO,fonctionnelle,33063,-0.5977961451126628,44.8343888220462,Fontaine
+60.0,Cimetière la Chartreuse n°8,METALCO,fonctionnelle,33063,-0.597418325078146,44.83615817516931,Fontaine
+63.0,Cimetière la Chartreuse n°11,METALCO,fonctionnelle,33063,-0.5966020978983444,44.83441782848584,Fontaine
+64.0,Cimetière la Chartreuse n°12,METALCO,fonctionnelle,33063,-0.59629455504665,44.83412523315884,Fontaine
+68.0,Cimetière la Chartreuse n°16,METALCO,fonctionnelle,33063,-0.594887450020425,44.834499212034885,Fontaine
+72.0,Cimetière la Chartreuse n°20,METALCO,fonctionnelle,33063,-0.5954819996898914,44.83681255754392,Fontaine
+78.0,Cimetière la Chartreuse n°26,METALCO,fonctionnelle,33063,-0.5929764462067079,44.8350800569355,Fontaine
+79.0,Cimetière la Chartreuse n°27,METALCO,fonctionnelle,33063,-0.5925327847013763,44.834687344844234,Fontaine
+80.0,Cimetière la Chartreuse n°28,METALCO,fonctionnelle,33063,-0.5915896897278187,44.83495862266523,Fontaine
+81.0,Cimetière la Chartreuse n°29,METALCO,fonctionnelle,33063,-0.592304593755046,44.83597578036013,Fontaine
+85.0,Cimetière la Chartreuse n°33,METALCO,fonctionnelle,33063,-0.5917412879687968,44.83712237375244,Fontaine
+94.0,Cimetière la Chartreuse n°42,METALCO,fonctionnelle,33063,-0.5903357903522765,44.83743840990227,Fontaine
+97.0,Cimetière Pins Francs n°3,METALCO,fonctionnelle,33063,-0.6216203316659779,44.85985369094694,Fontaine
+98.0,Cimetière Pins Francs n°4,METALCO,fonctionnelle,33063,-0.6208831766613115,44.859997724275665,Fontaine
+101.0,Cimetière Pins Francs n°7,METALCO,fonctionnelle,33063,-0.6198679649944455,44.85860687094346,Fontaine
+112.0,Cimetière Nord n°3,METALCO,fonctionnelle,33075,-0.5919453450025831,44.87488994927513,Fontaine
+114.0,Cimetière Nord n°5,METALCO,fonctionnelle,33075,-0.5943505900017984,44.875246630944275,Fontaine
+116.0,Cimetière Nord n°7,METALCO,fonctionnelle,33075,-0.595547993330933,44.87496896427596,Fontaine
+120.0,Cimetière Nord n°11,Borne Béton,fonctionnelle,33075,-0.591569459994691,44.873876619277546,Fontaine
+121.0,Cimetière Nord n°12,Borne Béton,fonctionnelle,33075,-0.5912810683333283,44.87269396094529,Fontaine
+125.0,Cimetière Nord n°16,METALCO,fonctionnelle,33075,-0.5923383216700485,44.87624659927879,Fontaine
+126.0,Cimetière Nord n°17,METALCO,fonctionnelle,33075,-0.5917553483301122,44.876913199279926,Fontaine
+131.0,Cimetière Nord n°22,Borne Béton,fonctionnelle,33075,-0.5939308216673793,44.87612857594502,Fontaine
+132.0,Cimetière Nord n°23,METALCO,fonctionnelle,33075,-0.5950530800036439,44.87585749927331,Fontaine
+135.0,Cimetière Nord n°26,METALCO,fonctionnelle,33075,-0.5910103333280968,44.8762118742726,Fontaine
+138.0,Cimetière Nord n°29,robinet mural,fonctionnelle,33075,-0.5941846883327909,44.87664652927246,Fontaine
+139.0,Cimetière Nord n°30,METALCO,fonctionnelle,33075,-0.594184688331584,44.87664652927341,Fontaine
+144.0,Parc Bordelais (proche animaux),PRESTO,fonctionnelle,33063,-0.6037505900050445,44.850522434271625,Fontaine
+145.0,Parc Bordelais (aire de jeux du parc Cerey  entrée),PRESTO,fonctionnelle,33063,-0.6045929499943546,44.851398230946,Fontaine
+148.0,Quai des Salinières (Grave),FONTAINE MONUMENT PIERRE,fonctionnelle,33063,-0.5621183816728135,44.834504599275334,Fontaine
+150.0,Quai des salinieres,FONTAINE EN RANGEE,fonctionnelle,33063,-0.5611345900001954,44.833927489272675,Fontaine
+155.0,Place lafargue,PRESTO,fonctionnelle,33063,-0.571834595933436,44.837102114452605,Fontaine
+156.0,Parc Rivière n°1 (maison),PRESTO,fonctionnelle,33063,-0.585794953331456,44.85548036427987,Fontaine
+160.0,Place Puy Paulin,METALCO,fonctionnelle,33063,-0.5762384626274856,44.841125208606016,Fontaine
+166.0,AUBIERS CITY STADE,PRESTO,fonctionnelle,33063,-0.5700018000014346,44.87189741427395,Fontaine
+173.0,Cours du quebec face station des berges du lac,METALCO,fonctionnelle,33063,-0.5709798583304904,44.87925251260626,Fontaine
+174.0,Plage du lac/Bld jacques chaban delmas,PRESTO,fonctionnelle,33075,-0.5790851948510053,44.87783144643056,Fontaine
+176.0,Place georges porto riche,WALLACE,fonctionnelle,33063,-0.5722971922394011,44.84189131636925,Fontaine
+177.0,Place de la republique,PRESTO,fonctionnelle,33063,-0.5788637883330857,44.83489267594735,Fontaine
+183.0,Face galerie des beaux arts (en pierre),PRESTO,fonctionnelle,33063,-0.5819768783334576,44.838685814276204,Fontaine
+185.0,"Parc Pincon, aire de jeux",METALCO,fonctionnelle,33063,-0.5457294187296334,44.84521721864546,Fontaine
+187.0,"Jardins des Barrières, aire de jeux",DELABIE,fonctionnelle,33063,-0.5662146804892807,44.81265305462075,Fontaine
+193.0,"Square Bertrand de Goth, dans le parc",PRESTO,fonctionnelle,33063,-0.5774987759455112,44.819336872346874,Fontaine
+199.0,Quai de Queyries (proche terrain basket),METALCO,fonctionnelle,33063,-0.563045490933623,44.84962880684647,Fontaine
+202.0,"Bd Brandenburg , local Boulistes",PRESTO,fonctionnelle,33063,-0.5431246144392422,44.87498981083507,Fontaine
+203.0,Place André Meunier 1,PRESTO,fonctionnelle,33063,-0.5628527566347333,44.82937301029958,Fontaine
+206.0,Quai Sainte Croix - aire de jeux,TANA,fonctionnelle,33063,-0.5605346061657143,44.833556559258035,Fontaine
+208.0,Parc Bordelais (proche Manège),PRESTO,fonctionnelle,33063,-0.6011355350028714,44.85391818297133,Fontaine
+210.0,Stade Promis n1 (côté rue Buthaud),PRESTO,hors service,33063,-0.5541252948065278,44.83808281767825,Fontaine
+213.0,Parc de lussy (aire de jeux),PRESTO,fonctionnelle,33063,-0.6061585405781746,44.84020171697899,Fontaine
+215.0,Jardin Public,PRESTO,fonctionnelle,33063,-0.5791974061881144,44.848230725576364,Fontaine
+218.0,109 rue Billaudel,METALCO,fonctionnelle,33063,-0.5628872864840272,44.82325943694051,Fontaine
+219.0,Jardin de la porcelaine (aire de jeux),PRESTO,fonctionnelle,33063,-0.5513346069292266,44.822024131970174,Fontaine
+221.0,Parc de la grenouillère,PRESTO,fonctionnelle,33063,-0.5747052129732302,44.861754265114584,Fontaine
+223.0,"Jardin des Barrières, aire des chiens","PRESTO 
+(+ abreuvoir)",fonctionnelle,33063,-0.5667680422599005,44.81344589119144,Fontaine
+224.0,Place des Martyrs de la résisitence,"PRESTO 
+(+ abreuvoir)",fonctionnelle,33063,-0.5852797581774178,44.84287179634456,Fontaine
+225.0,Square Honoré d'Etienne d'Orves,PRESTO,fonctionnelle,33063,-0.6145053449345214,44.85509829304507,Fontaine
+230.0,Place Cardinal / Eglise Sacré Cœur,METALCO,fonctionnelle,33063,-0.5631139096976988,44.822337123230014,Fontaine
+231.0,Jardin de l'Ars,METALCO,fonctionnelle,33063,-0.5437610199053907,44.822428186559655,Fontaine
+236.0,Square Vinet,BAYARD,fonctionnelle,33063,-0.5714381086870541,44.8394563914169,Fontaine
+242.0,"Parc Pincon, opposé de l'aire de jeux",PRESTO,fonctionnelle,33063,-0.5454209043748312,44.84355171444281,Fontaine
+245.0,Square des Jasmins,METALCO,fonctionnelle,33063,-0.6370966092287849,44.8601861662304,Fontaine
+247.0,Placette Tivoli / Riviere,METALCO,fonctionnelle,33063,-0.5886484991529938,44.85378402008263,Fontaine
+248.0,rue Cazemajor,PRESTO,fonctionnelle,33063,-0.5693095561383722,44.824380798756245,Fontaine
+257.0,"Restaurant ""le terroir""",METALCO,fonctionnelle,33063,-0.560489751605236,44.82027049886653,Fontaine
+260.0,Impasse Bouscatier,BAYARD,fonctionnelle,33063,-0.580200803578982,44.83008585165041,Fontaine
+263.0,jardin de ta sœur,METALCO,fonctionnelle,33063,-0.5604500758839694,44.85922678000497,Fontaine
+275.0,Préau sportif P10,PRESTO,fonctionnelle,33063,-0.5599625679011889,44.86605953356528,Fontaine
+276.0,Parc du Pont Roulant,METALCO,fonctionnelle,33063,-0.5543127340900923,44.819605899805794,Fontaine
+278.0,Eglise Notre Dame (Mably),METALCO,fonctionnelle,33063,-0.5762881489839912,44.84300172678876,Fontaine
+280.0,Square du Grand Parc n°4 - Aire Chiens,METALCO,fonctionnelle,33063,-0.5838234558027886,44.8595172651322,Fontaine
+7.0,Place Bernadas (la Bastide),BAYARD,fonctionnelle,33063,-0.5467953283336258,44.841715270940824,Fontaine
+8.0,Place Pey Berland,TANA,fonctionnelle,33063,-0.5766111866630947,44.83772632927857,Fontaine
+9.0,Place Paul Doumer,TANA,fonctionnelle,33063,-0.5742817383341714,44.85180274927379,Fontaine
+10.0,Place Jean Moulin,TANA,fonctionnelle,33063,-0.5775591483311432,44.83852476261346,Fontaine
+20.0,Terminus des Aubiers,TANA,fonctionnelle,33063,-0.5754079766705447,44.87388927261227,Fontaine
+26.0,Quai Rive Gauche,TANA,fonctionnelle,33063,-0.5697570366713133,44.84376226594728,Fontaine
+27.0,Quai Rive Gauche,TANA,fonctionnelle,33063,-0.5693227166733527,44.842709217613766,Fontaine
+35.0,Quai Rive Gauche,TANA,fonctionnelle,33063,-0.5657115783327016,44.85362025927699,Fontaine
+36.0,Cours du Chapeau Rouge,BAYARD,hors service,33063,-0.5733607216647361,44.842327842606586,Fontaine
+38.0,Place Stalingrad la Bastide,WALLACE,fonctionnelle,33063,-0.5595891866719985,44.840526652609825,Fontaine
+41.0,Cours Xavier Arnozan,WALLACE,fonctionnelle,33063,-0.5729408816603729,44.84911779760867,Fontaine
+44.0,Place Calixte Camelle,PRESTO,hors service,33063,-0.5497668951142816,44.84275317032159,Fontaine
+46.0,Jardin Public (guignol),PRESTO,fonctionnelle,33063,-0.5776230984187274,44.84852001099839,Fontaine
+47.0,Jardin Public,PRESTO,fonctionnelle,33063,-0.5776269252454433,44.84851470676639,Fontaine
+50.0,Parc Bordelais (proche étang),PRESTO,fonctionnelle,33063,-0.6045929499943546,44.851398230946,Fontaine
+61.0,Cimetière la Chartreuse n°9,METALCO,fonctionnelle,33063,-0.5970184603052685,44.835516549771,Fontaine
+62.0,Cimetière la Chartreuse n°10,METALCO,fonctionnelle,33063,-0.5966882516748957,44.83488127946967,Fontaine
+66.0,Cimetière la Chartreuse n°14,METALCO,fonctionnelle,33063,-0.5951446222959843,44.83358090065618,Fontaine
+74.0,Cimetière la Chartreuse n°22,METALCO,fonctionnelle,33063,-0.5947580668063529,44.83406703290025,Fontaine
+75.0,Cimetière la Chartreuse n°23,METALCO,fonctionnelle,33063,-0.5943503014186745,44.835414655186625,Fontaine
+87.0,Cimetière la Chartreuse n°35,METALCO,fonctionnelle,33063,-0.5908386877949768,44.83584413326507,Fontaine
+91.0,Cimetière la Chartreuse n°39,METALCO,fonctionnelle,33063,-0.5895986962256635,44.83620502412064,Fontaine
+93.0,Cimetière la Chartreuse n°41,METALCO,fonctionnelle,33063,-0.5905043008588882,44.83735102921913,Fontaine
+95.0,Cimetière Pins Francs n°1,ROBINET PAPILLON,fonctionnelle,33063,-0.6202026883381441,44.85939849594245,Fontaine
+99.0,Cimetière Pins Francs n°5,METALCO,fonctionnelle,33063,-0.6200730900028517,44.85977730594029,Fontaine
+100.0,Cimetière Pins Francs n°6,PRESTO,fonctionnelle,33063,-0.6196608133283021,44.859287734276755,Fontaine
+104.0,Cimetière Pins Francs n°10,METALCO,fonctionnelle,33063,-0.6218554216620877,44.85866843093885,Fontaine
+110.0,Cimetière Nord n°1,METALCO,fonctionnelle,33075,-0.5906403749942004,44.87439537094372,Fontaine
+115.0,Cimetière Nord n°6,METALCO,fonctionnelle,33075,-0.594812213338697,44.8750962809439,Fontaine
+117.0,Cimetière Nord n°8,METALCO,fonctionnelle,33075,-0.59458907000059,44.87442687761207,Fontaine
+118.0,Cimetière Nord n°9,METALCO,fonctionnelle,33075,-0.5935338049982845,44.87473834260787,Fontaine
+127.0,Cimetière Nord n°18,METALCO,fonctionnelle,33075,-0.5919463800023665,44.87816462094085,Fontaine
+129.0,Cimetière Nord n°20,METALCO,fonctionnelle,33075,-0.5928207649960893,44.877444452610966,Fontaine
+133.0,Cimetière Nord n°24,Borne Béton,fonctionnelle,33075,-0.5952341933290025,44.876479694278345,Fontaine
+136.0,Cimetière Nord n°27,METALCO,fonctionnelle,33075,-0.5934392466624175,44.87774345761253,Fontaine
+141.0,Cimetière Nord n°32,METALCO,fonctionnelle,33075,-0.5941846883291667,44.876646529275284,Fontaine
+146.0,Parc Bordelais (aire de jeux du parc Cerey  milieu parc),PRESTO,fonctionnelle,33063,-0.6011355350028714,44.85391818297133,Fontaine
+151.0,Quai des Salinières,FONTAINE EN RANGEE,fonctionnelle,33063,-0.5611054033322284,44.83391059427859,Fontaine
+153.0,Quai des salinieres,FONTAINE EN RANGEE,fonctionnelle,33063,-0.5610479966700842,44.83387548927728,Fontaine
+154.0,Quai des salinieres (terrain de basket),TANA,fonctionnelle,33063,-0.5610202933302056,44.83385733260818,Fontaine
+157.0,Parc Rivière n°2 (Jardin),METALCO,fonctionnelle,33063,-0.5857698583296662,44.855097044275716,Fontaine
+158.0,Ilôt Bonnac,TANA,fonctionnelle,33063,-0.5823274133391385,44.84011257927439,Fontaine
+159.0,Ilôt Bonnac,TANA,fonctionnelle,33063,-0.5821548371091394,44.8395712908337,Fontaine
+161.0,AIRE DE JEUX POINCARE,PRESTO,hors service,33063,-0.6204046733353917,44.844302697607056,Fontaine
+168.0,AUBIERS GINKO,METALCO,fonctionnelle,33063,-0.5726569649974093,44.87608371427446,Fontaine
+172.0,"Jardin Béchade (n°2, milieu parc)",PRESTO,fonctionnelle,33063,-0.5979326683363279,44.82650366261077,Fontaine
+175.0,Rue du muguet/angle puits descazeaux,BAYARD,fonctionnelle,33063,-0.5685368827676256,44.83657719278425,Fontaine
+178.0,Place duburg,METALCO,fonctionnelle,33063,-0.5643945899983296,44.83446959428003,Fontaine
+179.0,Jardin botanique bastide1,PRESTO,fonctionnelle,33063,-0.5612666009065836,44.84542206821729,Fontaine
+181.0,Place maucaillou,METALCO,fonctionnelle,33063,-0.5668763266654059,44.83226191927255,Fontaine
+186.0,"Parc Carreire, aire de jeux",DELABIE,fonctionnelle,33063,-0.6082663189887014,44.82384033350401,Fontaine
+189.0,142 rue des Terres de Borde,METALCO,fonctionnelle,33063,-0.5547632519652383,44.82294153937313,Fontaine
+190.0,"Parc des Berges, quai dechamps",DELABIE,fonctionnelle,33063,-0.5531719150228619,44.83504176818657,Fontaine
+191.0,Square Paul Antin,BAYARD,fonctionnelle,33063,-0.5702209029855192,44.81944073251538,Fontaine
+194.0,Place Saint Projet,PRESTO,fonctionnelle,33063,-0.5741726504064412,44.83848568242219,Fontaine
+195.0,Place Nansouty,PRESTO,fonctionnelle,33063,-0.5723256557271309,44.82008972519315,Fontaine
+212.0,Place Gaviniès (square de jeu gavinies),BAYARD,fonctionnelle,33063,-0.5935366111012937,44.83315714010348,Fontaine
+216.0,Grand Parc (square) n°1,PRESTO,fonctionnelle,33063,-0.5833546049647186,44.86056795419671,Fontaine
+227.0,Square Docteur Roger Hypousteguy,METALCO,fonctionnelle,33063,-0.5441717734779304,44.87900888238058,Fontaine
+228.0,"1 rue Lacanau, Bordeaux",METALCO,fonctionnelle,33063,-0.5934118114975201,44.83781407352449,Fontaine
+229.0,Place Marjolaine Bamboche,METALCO,fonctionnelle,33063,-0.5494362116564037,44.873672860990595,Fontaine
+233.0,Nouvelle Gare Routière,METALCO,fonctionnelle,33063,-0.5541309902546113,44.82965810318917,Fontaine
+235.0,Place Alice Girou,METALCO,fonctionnelle,33063,-0.5546195530513094,44.86190453518164,Fontaine
+237.0,Stade Promis n2 (côté rue Joseph Fauré),PRESTO,fonctionnelle,33063,-0.5508432030345474,44.83900517287617,Fontaine
+238.0,Square Armand Faulat,METALCO,fonctionnelle,33063,-0.6147476111158188,44.84564228377359,Fontaine
+239.0,Place Mareilhac,PRESTO,fonctionnelle,33063,-0.5511596021815374,44.876443745550496,Fontaine
+240.0,Parc Chantecrit - Aire de jeux,PRESTO,fonctionnelle,33063,-0.5642104097313205,44.86341674487912,Fontaine
+244.0,Place rue du Lavoir,METALCO,fonctionnelle,33063,-0.5838476560910382,44.85175890416004,Fontaine
+251.0,"Place du 14 juillet, Bordeaux",METALCO,fonctionnelle,33063,-0.6026299540890759,44.84806530437052,Fontaine
+255.0,place d'armagnac,METALCO,fonctionnelle,33063,-0.5542893807358921,44.819294952573976,Fontaine
+259.0,Placette Murielle Franco,METALCO,fonctionnelle,33063,-0.5570698522628431,44.84083041178901,Fontaine
+264.0,jardin de ta sœur,METALCO,fonctionnelle,33063,-0.5614077910919264,44.859703614310106,Fontaine
+265.0,Place Ozanam,METALCO,hors service,33063,-0.6138241749267075,44.85041247481959,Fontaine
+269.0,GS Elsa Triolet,METALCO,fonctionnelle,33063,-0.5408300316626596,44.857175939864135,Fontaine
+270.0,Avenue des 40 journeaux bordeaux lac,METALCO,fonctionnelle,33063,-0.5681393044595456,44.879122557608696,Fontaine
+273.0,Square Jacques Nancy (placette henri labit),METALCO,fonctionnelle,33063,-0.5888622914009186,44.83837435154579,Fontaine
+277.0,Eglise Belcier,METALCO,fonctionnelle,33063,-0.5503865544584905,44.824351024651875,Fontaine
+281.0,Square du Grand Parc n°5 - Aire Musculation,METALCO,fonctionnelle,33063,-0.5847329198668914,44.85965708405375,Fontaine
+283.0,Parc Bordelais - aire de jeux n°2 (nouvelle aire),METALCO,fonctionnelle,33063,-0.6039544809024793,44.855318761848075,Fontaine
+2.0,Place Emile Combes,METALCO,fonctionnelle,33063,-0.6083472666622323,44.836501969276604,Fontaine
+6.0,Place Simiot,BAYARD,fonctionnelle,33063,-0.5771945162018686,44.82292343589155,Fontaine
+12.0,Place Flornoy (jardin de Lili),METALCO,fonctionnelle,33063,-0.6112555216639495,44.83311823761235,Fontaine
+14.0,Gare Saint Jean (Place Casablanca),TANA,fonctionnelle,33063,-0.5574803650018081,44.82623087927816,Fontaine
+15.0,Gare Saint Jean (arêt tram),TANA,fonctionnelle,33063,-0.5570660799948963,44.826092192611895,Fontaine
+17.0,Cours Victor Hugo n°1,TANA,fonctionnelle,33063,-0.5691354216658818,44.83559128593849,Fontaine
+18.0,Cours Victor Hugo n°2,TANA,fonctionnelle,33063,-0.5731999045710274,44.83497269833371,Fontaine
+19.0,Cours Victor Hugo n°3,TANA,hors service,33063,-0.5669914383462348,44.8358593168154,Fontaine
+21.0,Poste Bacalan,TANA,hors service,33063,-0.546200964913543,44.87337954133794,Fontaine
+29.0,Quai Rive Gauche,TANA,fonctionnelle,33063,-0.5679440966723421,44.83962858760882,Fontaine
+30.0,Quai Rive Gauche,TANA,fonctionnelle,33063,-0.5700811433269877,44.84518940927468,Fontaine
+31.0,Quai Rive Gauche,TANA,fonctionnelle,33063,-0.5702324616616945,44.84685797427872,Fontaine
+32.0,Quai Rive Gauche,TANA,fonctionnelle,33063,-0.5694370983278596,44.84971446927699,Fontaine
+33.0,Quai Rive Gauche,TANA,fonctionnelle,33063,-0.5671963700030844,44.85243448427429,Fontaine
+40.0,Place Mitchell,WALLACE,fonctionnelle,33063,-0.5758067699970841,44.85048595594505,Fontaine
+55.0,Cimetière la Chartreuse n°3,METALCO,fonctionnelle,33063,-0.5983831448302144,44.834329364874314,Fontaine
+57.0,Cimetière la Chartreuse n°5,METALCO,fonctionnelle,33063,-0.5973948476531483,44.833647072235,Fontaine
+65.0,Cimetière la Chartreuse n°13,METALCO,fonctionnelle,33063,-0.5960730236513451,44.83374416111863,Fontaine
+67.0,Cimetière la Chartreuse n°15,METALCO,fonctionnelle,33063,-0.5950632809082416,44.83403433007666,Fontaine
+69.0,Cimetière la Chartreuse n°17,METALCO,fonctionnelle,33063,-0.595633341332854,44.83503829814714,Fontaine
+70.0,Cimetière la Chartreuse n°18,METALCO,fonctionnelle,33063,-0.5969203438566709,44.83619589595879,Fontaine
+71.0,Cimetière la Chartreuse n°19,METALCO,fonctionnelle,33063,-0.5965785861313505,44.83659657181884,Fontaine
+73.0,Cimetière la Chartreuse n°21,METALCO,fonctionnelle,33063,-0.5949662559807123,44.835303675553526,Fontaine
+76.0,Cimetière la Chartreuse n°24,METALCO,fonctionnelle,33063,-0.5933891518005409,44.837420321150574,Fontaine
+77.0,Cimetière la Chartreuse n°25,METALCO,fonctionnelle,33063,-0.5923176104782543,44.83595510108699,Fontaine
+82.0,Cimetière la Chartreuse n°30,METALCO,fonctionnelle,33063,-0.5921315062286799,44.83602619475798,Fontaine
+83.0,Cimetière la Chartreuse n°31,METALCO,fonctionnelle,33063,-0.593084330137274,44.837439314067154,Fontaine
+84.0,Cimetière la Chartreuse n°32,METALCO,fonctionnelle,33063,-0.5920421134972614,44.83764850455193,Fontaine
+86.0,Cimetière la Chartreuse n°34,METALCO,fonctionnelle,33063,-0.5912067179684944,44.83639859291937,Fontaine
+88.0,Cimetière la Chartreuse n°36,METALCO,fonctionnelle,33063,-0.5905105760767088,44.835243462419605,Fontaine
+89.0,Cimetière la Chartreuse n°37,METALCO,fonctionnelle,33063,-0.5904121512300807,44.83500893252614,Fontaine
+90.0,Cimetière la Chartreuse n°38,METALCO,fonctionnelle,33063,-0.5893821808110149,44.8355401153029,Fontaine
+92.0,Cimetière la Chartreuse n°40,METALCO,fonctionnelle,33063,-0.5901262443161855,44.836759589913946,Fontaine
+96.0,Cimetière Pins Francs n°2,METALCO,fonctionnelle,33063,-0.6205700416685797,44.85945594260547,Fontaine
+102.0,Cimetière Pins Francs n°8,ROBINET PAPILLON,fonctionnelle,33063,-0.6208757233309109,44.85879891928022,Fontaine
+103.0,Cimetière Pins Francs n°9,ROBINET PAPILLON,fonctionnelle,33063,-0.621524193328581,44.85895667760583,Fontaine
+105.0,Cimetière Pins Francs n°11,ROBINET PAPILLON,fonctionnelle,33063,-0.6219096583384481,44.858475459277855,Fontaine
+106.0,Cimetière Pins Francs n°12,METALCO,fonctionnelle,33063,-0.6221752933347867,44.85925671594115,Fontaine
+107.0,Cimetière Pins Francs n°13,PRESTO,fonctionnelle,33063,-0.6210801083312605,44.858493527613966,Fontaine
+108.0,Cimetière Pins Francs n°14,PRESTO,fonctionnelle,33063,-0.6210801083300511,44.85849352761489,Fontaine
+109.0,Cimetière Pins Francs n°15,PRESTO,fonctionnelle,33063,-0.6210801083288449,44.85849352761585,Fontaine
+111.0,Cimetière Nord n°2,METALCO,fonctionnelle,33075,-0.5911509250019906,44.87454231261119,Fontaine
+113.0,Cimetière Nord n°4,METALCO,fonctionnelle,33075,-0.5928335899969451,44.8753503909403,Fontaine
+119.0,Cimetière Nord n°10,METALCO,fonctionnelle,33075,-0.5923874666615541,44.87424544761428,Fontaine
+122.0,Cimetière Nord n°13,METALCO,fonctionnelle,33075,-0.5922037233293772,44.8731709042729,Fontaine
+123.0,Cimetière Nord n°14,Borne Béton,fonctionnelle,33075,-0.5930498616662863,44.8736119859401,Fontaine
+124.0,Cimetière Nord n°15,METALCO,fonctionnelle,33075,-0.5960186766665776,44.8756961276126,Fontaine
+128.0,Cimetière Nord n°19,Borne Béton,fonctionnelle,33075,-0.5928205083299223,44.87744454261104,Fontaine
+130.0,Cimetière Nord n°21,Borne Béton,fonctionnelle,33075,-0.593434136668271,44.87678395594311,Fontaine
+134.0,Cimetière Nord n°25,Borne Béton,fonctionnelle,33075,-0.5959643216623421,44.8764652942805,Fontaine
+137.0,Cimetière Nord n°28,METALCO,fonctionnelle,33075,-0.5943172249974437,44.877498410941655,Fontaine
+140.0,Cimetière Nord n°31,METALCO,fonctionnelle,33075,-0.594184688330373,44.87664652927435,Fontaine
+142.0,Parc Bordelais (nouvele aire de jeux n°1),METALCO,fonctionnelle,33063,-0.6026108366651411,44.850475180947484,Fontaine
+143.0,Parc Bordelais (proche piste education routière),PRESTO,fonctionnelle,33063,-0.6031184283310606,44.85044049094605,Fontaine
+147.0,Quai des Salinières (Grave),TANA,fonctionnelle,33063,-0.5629827099986493,44.83504517594158,Fontaine
+149.0,Quai des Salinières (Grave),TANA,fonctionnelle,33063,-0.5611627049964352,44.83394650594045,Fontaine
+152.0,Quai des salinieres,FONTAINE EN RANGEE,fonctionnelle,33063,-0.5610768216732865,44.83389311427309,Fontaine
+162.0,SQUARE BRASCASSAT,PRESTO,fonctionnelle,33063,-0.5543394366682637,44.81507967760993,Fontaine
+163.0,JARDIN DES DAMES DE LA FOI,PRESTO,fonctionnelle,33063,-0.5815924199940246,44.8248448392748,Fontaine
+164.0,SQUARE MANDEL,PRESTO,fonctionnelle,33063,-0.5935332316611434,44.84158220927662,Fontaine
+165.0,JARDIN SAINTE MARIE,PRESTO,hors service,33063,-0.55697733166633,44.843415385944326,Fontaine
+167.0,JARDIN PARTAGE NOVICIAT,PRESTO,fonctionnelle,33063,-0.5619602233304161,44.83081603927895,Fontaine
+169.0,GINKO,METALCO,fonctionnelle,33063,-0.5725663516718649,44.876942535944664,Fontaine
+170.0,JARDIN PARTAGE Petit nicolas (clown chocolat),METALCO,fonctionnelle,33063,-0.5725659800031799,44.87778749427615,Fontaine
+171.0,"Jardin Béchade (n°1, proche entrée)",PRESTO,fonctionnelle,33063,-0.5996663133291855,44.82665247761082,Fontaine
+180.0,Jardin botanique bastide 2,PRESTO,hors service,33063,-0.5612666009065836,44.84542206821729,Fontaine
+182.0,Square J lasserre,METALCO,fonctionnelle,33063,-0.5773398316660326,44.82466102594529,Fontaine
+184.0,Place buscaillet,PRESTO,fonctionnelle,33063,-0.5497396157990129,44.87055960713242,Fontaine
+188.0,Place Pierre Cétois,METALCO,hors service,33063,-0.5506078891458042,44.865539652215205,Fontaine
+192.0,Jardin de la Croix du Sud,DELABIE,fonctionnelle,33063,-0.574042218431736,44.8176642511696,Fontaine
+196.0,aire de jeux des droits de l'enfants,PRESTO,fonctionnelle,33063,-0.5645769656007381,44.845800283391064,Fontaine
+200.0,Place Gambetta 1,METALCO,fonctionnelle,33063,-0.5803260548359772,44.8409292067966,Fontaine
+201.0,Place Gambetta 2,METALCO,fonctionnelle,33063,-0.580748155583772,44.8411650916029,Fontaine
+204.0,Place André Meunier 2,PRESTO,fonctionnelle,33063,-0.5623086301065963,44.82962389456522,Fontaine
+205.0,Quai Sainte Croix - Fronton,TANA,fonctionnelle,33063,-0.55911357464139,44.83265066710774,Fontaine
+207.0,"Parc des Berges, quai dechamps",DELABIE,fonctionnelle,33063,-0.5581821479915884,44.83780498767347,Fontaine
+209.0,Parc Rivière n°3 (aire de jeux),METALCO,fonctionnelle,33063,-0.587006676720491,44.85466991795718,Fontaine
+211.0,Square Jean Bureau,METALCO,fonctionnelle,33063,-0.5696721954307475,44.83670641528938,Fontaine
+214.0,27 rue Ernest Renan,METALCO,fonctionnelle,33063,-0.5919282240148154,44.848186780667966,Fontaine
+217.0,Grand Parc (square) n°2,PRESTO,fonctionnelle,33063,-0.5794961109598672,44.86094615207212,Fontaine
+220.0,Parc stéhélin (complexe sportif stréhélin),PRESTO,fonctionnelle,33063,-0.6222510026965117,44.85589921840949,Fontaine
+222.0,Place Sainte Eulalie,PRESTO,fonctionnelle,33063,-0.5771066023729815,44.83352390653429,Fontaine
+226.0,"Rue Saint Macaire, placette",METALCO,fonctionnelle,33063,-0.5674315426257039,44.82277347664888,Fontaine
+232.0,Place d'Armagnac,METALCO,fonctionnelle,33063,-0.5504846607501624,44.82132506596894,Fontaine
+234.0,Place Marie Curie,METALCO,fonctionnelle,33063,-0.5582137086103997,44.82746974728837,Fontaine
+241.0,Parc Chantecrit - dans le parc,PRESTO,fonctionnelle,33063,-0.5633421956353106,44.86368155129606,Fontaine
+243.0,Place LEHU,METALCO,fonctionnelle,33063,-0.6150346797359149,44.846296175148765,Fontaine
+246.0,Ecole Maternelle de la Bechade square Madagascar,METALCO,fonctionnelle,33063,-0.5968346756558655,44.82570396448148,Fontaine
+249.0,Parc Bordelais (proche entrée Maison Brieix),PRESTO,fonctionnelle,33063,-0.5987884370148583,44.85406349448411,Fontaine
+250.0,Parc Monséjour,"PRESTO 
+avec abreuvoir",fonctionnelle,33063,-0.6304364267876517,44.85416317641637,Fontaine
+252.0,Pont Simone Veil (rive gauche),METALCO,fonctionnelle,33063,-0.5409957637512939,44.82175716494282,Fontaine
+253.0,Aire du Jeux du Capitaine Némo,METALCO,fonctionnelle,33063,-0.5561628980754929,44.870062318001835,Fontaine
+254.0,Square Françoise Dolto,METALCO,fonctionnelle,33063,-0.5573287517340474,44.84692198884403,Fontaine
+256.0,Atelier des citernes (proche Amédée Saint Germain),METALCO,fonctionnelle,33063,-0.5598255551274911,44.821516644839924,Fontaine
+258.0,Pont de la Palombe,METALCO,fonctionnelle,33063,-0.5552406630912143,44.8205757139366,Fontaine
+261.0,place d'arlac,PRESTO,hors service,33063,-0.5887125879384681,44.83066205827344,Fontaine
+262.0,jardin de ta soeur,"METALCO
 +
-abreuvoir";fonctionnelle;33063;-0.5600289047862554;44.85906402482394;Fontaine
-266.0;Thiers - Pujol;TANA;fonctionnelle;33063;-0.5448705897676716;44.84911287247523;Fontaine
-268.0;GS Louise Michel;METALCO;fonctionnelle;33063;-0.5758263243270783;44.87216866907109;Fontaine
-271.0;Bd Freres Moga - côté Nouvelle Gare Routiere (face caisse d'épargne);METALCO;fonctionnelle;33063;-0.5503957132739025;44.82834973879579;Fontaine
-272.0;Bd freres Moga - Côté Pont Simone Veil (angle  Bd freres Moga et rue de la seigliere);METALCO;fonctionnelle;33063;-0.5477811464873489;44.82687768542546;Fontaine
-274.0;Square Joséphine;METALCO;fonctionnelle;33063;-0.5604483630717728;44.86110022401307;Fontaine
-279.0;Square du Grand Parc n°3 - Aire Boulistes;METALCO;fonctionnelle;33063;-0.5848225755234362;44.85912170190181;Fontaine
-282.0;Ecvole Sousa-Mendes;METALCO;fonctionnelle;33063;-0.5700311458752897;44.86363577909649;Fontaine
-284.0;Jardin de la Faiencerie;METALCO;fonctionnelle;33063;-0.5578021312681495;44.861817468827724;Fontaine
+abreuvoir",fonctionnelle,33063,-0.5600289047862554,44.85906402482394,Fontaine
+266.0,Thiers - Pujol,TANA,fonctionnelle,33063,-0.5448705897676716,44.84911287247523,Fontaine
+268.0,GS Louise Michel,METALCO,fonctionnelle,33063,-0.5758263243270783,44.87216866907109,Fontaine
+271.0,Bd Freres Moga - côté Nouvelle Gare Routiere (face caisse d'épargne),METALCO,fonctionnelle,33063,-0.5503957132739025,44.82834973879579,Fontaine
+272.0,Bd freres Moga - Côté Pont Simone Veil (angle  Bd freres Moga et rue de la seigliere),METALCO,fonctionnelle,33063,-0.5477811464873489,44.82687768542546,Fontaine
+274.0,Square Joséphine,METALCO,fonctionnelle,33063,-0.5604483630717728,44.86110022401307,Fontaine
+279.0,Square du Grand Parc n°3 - Aire Boulistes,METALCO,fonctionnelle,33063,-0.5848225755234362,44.85912170190181,Fontaine
+282.0,Ecvole Sousa-Mendes,METALCO,fonctionnelle,33063,-0.5700311458752897,44.86363577909649,Fontaine
+284.0,Jardin de la Faiencerie,METALCO,fonctionnelle,33063,-0.5578021312681495,44.861817468827724,Fontaine
