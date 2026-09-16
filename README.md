@@ -20,17 +20,8 @@ Try the app ! https://fontaine-brumisateur-bordeaux.streamlit.app/
 - Mapping & Location : Folium, `streamlit-js-eval`.
 - Data Pipeline : Preprocessed and cleaned upstream using **Dataiku DSS** (`points_fraicheur_bordeaux_clean.csv`).
 
----
-## Local Installation
-
-```bash
-git clone [https://github.com/emiliebolte/brumisateur](https://github.com/emiliebolte/brumisateur)
-cd brumisateur
-pip install -r requirements.txt
-streamlit run app.py
-
 -----
-FRENCH
+#FRENCH
 
 # Fraîcheur Bordeaux — Points d'eau & Brumisateurs
 
@@ -53,5 +44,16 @@ Tester l'application ! https://fontaine-brumisateur-bordeaux.streamlit.app/
 - Développement : Python, Streamlit, Pandas, NumPy.
 - Cartographie & GPS : Folium, `streamlit-js-eval`.
 - Pipeline Data : Données nettoyées et préparées en amont sous Dataiku DSS (`points_fraicheur_bordeaux_clean.csv`).
+
+
+---
+## Local Installation
+
+```bash
+git clone [https://github.com/emiliebolte/brumisateur](https://github.com/emiliebolte/brumisateur)
+cd brumisateur
+pip install -r requirements.txt
+streamlit run app.py```
+
 
 
