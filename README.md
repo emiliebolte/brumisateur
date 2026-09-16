@@ -1,5 +1,5 @@
 (french below)
-# Cool Bordeaux — Water & Misting Points
+# Cool Bordeaux — Water & Misting Points 
 
 An interactive web app built with Streamlit to quickly locate active drinking fountains and water misters across the Bordeaux metropolitan area.
 Try the app ! https://fontaine-brumisateur-bordeaux.streamlit.app/
