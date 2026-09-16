@@ -36,5 +36,5 @@ jobs:
           if ! git diff --staged --quiet; then
             git commit -m "Auto-update: fresh water points data"
             git pull --rebase origin main
-            git push origin main
+            git push --force-with-lease origin main
           fi
