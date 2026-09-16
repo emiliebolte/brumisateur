@@ -2,8 +2,8 @@ name: Update Cool Bordeaux Data
 
 on:
   schedule:
-    - cron: '0 6 * * 1' # Tous les lundis à 6h UTC
-  workflow_dispatch:      # Permet de lancer la mise à jour manuellement via un bouton
+    - cron: '0 6 * * 1'
+  workflow_dispatch:
 
 jobs:
   update-data:
@@ -14,6 +14,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -27,8 +29,6 @@ jobs:
         run: python update_data.py
 
       - name: Commit and push changes
-        run: |
-          - name: Commit and push changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
