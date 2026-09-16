@@ -13,7 +13,7 @@ st.title("Points d'eau et brumisateurs — Bordeaux Métropole")
 # 1. Chargement et nettoyage des données
 @st.cache_data
 def load_data():
-    df_raw = pd.read_csv("points_fraicheur_bordeaux_clean.csv")
+    df_raw = pd.read_csv("points_fraicheur_bordeaux_clean.csv", sep=None, engine="python")
     return df_raw.dropna(subset=["lat", "lon"])
 
 df = load_data()
