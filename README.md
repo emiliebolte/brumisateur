@@ -21,7 +21,7 @@ Try the app ! https://fontaine-brumisateur-bordeaux.streamlit.app/
 - Data Pipeline : Preprocessed and cleaned upstream using **Dataiku DSS** (`points_fraicheur_bordeaux_clean.csv`).
 
 -----
-#FRENCH
+# FRENCH
 
 # Fraîcheur Bordeaux — Points d'eau & Brumisateurs
 
@@ -53,7 +53,7 @@ Tester l'application ! https://fontaine-brumisateur-bordeaux.streamlit.app/
 git clone [https://github.com/emiliebolte/brumisateur](https://github.com/emiliebolte/brumisateur)
 cd brumisateur
 pip install -r requirements.txt
-streamlit run app.py```
+streamlit run app.py
 
 
 
