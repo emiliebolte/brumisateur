@@ -10,7 +10,7 @@ import pandas as pd
 st.set_page_config(page_title="Fraîcheur Bordeaux", layout="wide")
 st.title("Points d'eau et brumisateurs — Bordeaux Métropole")
 
-# 1. Chargement et nettoyage des données
+# 1. Load & clean datas
 @st.cache_data
 def load_data():
     df_raw = pd.read_csv("points_fraicheur_bordeaux_clean.csv", sep=None, engine="python")
@@ -18,7 +18,7 @@ def load_data():
 
 df = load_data()
 
-# 2. Fonction de calcul de distance (Haversine)
+# 2. Calculate the distance (Haversine)
 def calcul_distance_m(lat1, lon1, lat2, lon2):
     r = 6371000.0
     dlat = np.radians(lat2 - lat1)
@@ -40,7 +40,7 @@ categories = st.sidebar.multiselect(
 df_filtre = df[df["categorie"].isin(categories)]
 st.sidebar.metric("Points affichés", len(df_filtre))
 
-# 4. Points cibles
+# 3. Target points
 st.sidebar.markdown("---")
 st.sidebar.subheader("🎯 Trouver le plus proche")
 besoin = st.sidebar.radio(
@@ -55,7 +55,7 @@ elif "Brumisateur" in besoin:
 else:
     df_cible = df.copy()
 
-# 5. Géolocalisation sécurisée
+# 4. Geolocalisation
 plus_proche = None
 loc = get_geolocation()
 if loc and isinstance(loc, dict) and "coords" in loc:
@@ -80,7 +80,7 @@ else:
    
     
     
-# 6. Carte interactive
+# 5. Interactive map
 m = folium.Map(location=[44.837789, -0.57918], zoom_start=13)
 
 for _, r in df_filtre.iterrows():
@@ -104,9 +104,9 @@ LocateControl(
     strings={"title": "Me localiser"}
 ).add_to(m)
 
-# Surbrillance du point le plus proche
+# Show the closest point
 if plus_proche is not None:
-    # 1. Halo / bulle rouge autour du point
+    # 1. Target in red
     folium.Circle(
         location=[float(plus_proche["lat"]), float(plus_proche["lon"])],
         radius=40,
@@ -116,7 +116,7 @@ if plus_proche is not None:
         fill_opacity=0.35,
     ).add_to(m)
 
-    # 2. Picto cible rouge vif
+    # 2. Add a pictogram
     folium.Marker(
         location=[float(plus_proche["lat"]), float(plus_proche["lon"])],
         icon=folium.Icon(icon="bullseye", prefix="fa", color="red", icon_color="white"),
