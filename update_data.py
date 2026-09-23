@@ -1,7 +1,7 @@
 import requests
 import pandas as pd
 
-# 1. Récupération des fontaines (avec pagination)
+# 1. Data recovery : fountains
 url_fontaines = "https://opendata.bordeaux-metropole.fr/api/explore/v2.1/catalog/datasets/bor_fontaines_eau_potable/records"
 offset = 0
 all_fontaines = []
@@ -26,7 +26,7 @@ df_fontaines = pd.DataFrame({
     "categorie": "Fontaine"
 })
 
-# 2. Récupération des brumisateurs
+# 2. Data recovery : water misters
 url_brumi = "https://geo.bordeaux-metropole.fr/adws/app/33cebc9f-cd8e-11ed-ad24-9bf3b515cd35/services/aas/v1/infoSheets/getData"
 sheet_id = "9c7e1e2e-fbd5-11ed-860c-4b9f9d2d7221"
 brumisateurs = []
@@ -52,6 +52,6 @@ for gid in range(1, 60):
 
 df_brumi = pd.DataFrame(brumisateurs)
 
-# 3. Concaténation et sauvegarde
+# 3. Concatenate & save
 df_final = pd.concat([df_brumi, df_fontaines], ignore_index=True)
 df_final.to_csv("points_fraicheur_bordeaux_clean.csv", index=False)
